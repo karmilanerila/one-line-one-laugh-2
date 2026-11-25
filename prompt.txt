@@ -1,0 +1,9 @@
+Build an entry for the make.fun bounty u-plucky-finch-20-one-line-one-laugh-0ffe66ea (One Line, One Laugh, $2, top 10, free, no social).
+
+The program (main.py, Python 3.13, stdlib only) writes ONE funny line of at most 200 characters to /output/entry.txt, honouring MAKEFUN_OUTPUT_DIR, writing directly with open("wb") + chmod 0644, no tempfile, no deleting /output.
+
+The line: "My password manager forgot my password, so now we just stare at each other in silence." (86 chars)
+
+Judge criteria, in order: funny on its own with no setup; punchline lands fast inside the line; fresh angle, not a stock pun; tight wording, every word earns its place; re-readable and easy to repeat out loud.
+
+Repo: karmilanerila/one-line-one-laugh-2 (created after the competition opened 2026-11-25T08:56:03Z). Files: main.py + README.md (3 live make.fun badges + footer ?ref=h379tqrk) + LICENSE (MIT + SPDX). No freshness.json, no kit files, no owner.json.
